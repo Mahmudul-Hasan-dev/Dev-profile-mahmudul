@@ -30,3 +30,25 @@ section{
     padding : 5px 20px;
     border-radius: 10px;
 }
+.dream-big{
+    margin-top: 150px;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position:right bottom;
+}
+.dream-big-img{
+    width: 70%;
+    margin-right: 5px;
+}
+.dream-big-text{
+    width: 50%;
+    padding-right: 5px;
+    padding-top: 100px;
+}
+.download-cv{
+    text-decoration: none;
+    background-image: linear-gradient(tomato,orange);
+    border-radius: 5px;
+    color: white;
+    padding: 10px 20px;
+}
